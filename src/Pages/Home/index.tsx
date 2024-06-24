@@ -1,3 +1,4 @@
+import Input from "../../Components/Input";
 import Line from "../../Components/Line";
 import NavBar from "../../Components/NavBar";
 import "./Home.css";

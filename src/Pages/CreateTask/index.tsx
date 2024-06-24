@@ -1,3 +1,4 @@
+import Form from "../../Components/Form";
 import Line from "../../Components/Line";
 import NavBar from "../../Components/NavBar";
 import "./CreateTask.css";
@@ -7,6 +8,7 @@ function CreateTask() {
     <div>
       <NavBar />
       <Line />
+      <Form />
     </div>
   );
 }
